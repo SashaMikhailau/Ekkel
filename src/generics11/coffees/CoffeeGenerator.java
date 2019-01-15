@@ -1,14 +1,19 @@
 package generics11.coffees;
 
 import generics11.Generator;
+import reflection.ex11pets.TypeCounter;
 
 import java.util.Iterator;
 import java.util.Random;
-import java.util.Spliterator;
-import java.util.function.Consumer;
 
 public class CoffeeGenerator implements Generator<Coffee>,Iterable<Coffee> {
+    @Override
+    public String toString() {
+        return coffeeCounter.toString();
+    }
+
     private static Class[] TYPES = {Brewe.class, Capuccino.class, Latte.class, Amerocano.class, Mocca.class};
+    private TypeCounter coffeeCounter = new TypeCounter(Coffee.class);
     private Random random = new Random(47);
     int size;
 
@@ -23,7 +28,9 @@ public class CoffeeGenerator implements Generator<Coffee>,Iterable<Coffee> {
     @Override
     public Coffee next() {
         try {
-            return (Coffee)TYPES[random.nextInt(TYPES.length)].newInstance();
+            Coffee coffee = (Coffee)TYPES[random.nextInt(TYPES.length)].newInstance();
+            coffeeCounter.count(coffee);
+            return coffee;
         } catch (ReflectiveOperationException e) {
             throw new RuntimeException();}
 
@@ -49,10 +56,11 @@ public class CoffeeGenerator implements Generator<Coffee>,Iterable<Coffee> {
     }
 
     public static void main(String[] args) {
-        CoffeeGenerator coffees = new CoffeeGenerator(5);
+        CoffeeGenerator coffees = new CoffeeGenerator(20);
         for (Coffee coffee : coffees) {
             System.out.println(coffee);
         }
+        System.out.println(coffees);
     }
 
 }
