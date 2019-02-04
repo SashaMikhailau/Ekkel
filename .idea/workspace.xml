@@ -2,15 +2,176 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c0e4a2c-c117-4265-930f-3b20b2c152dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Test/arrays/ex10/ArrayOfGenerics.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Test/arrays/ex3ex4/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Test/arrays/ex5/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Test/arrays/ex6ex7recursive_multidim_arrays/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Test/arrays/ex8/ArrayOfGenericType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Test/arrays/ex8/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Test/arrays/ex9/Banana.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Test/arrays/ex9/Peel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/BerilliumSphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_arrays/BerilliumSphere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_arrays/ex1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ex10/ArrayOfGenerics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_arrays/ex10/ArrayOfGenerics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ex11/AutoStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_arrays/ex11/AutoStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ex12ex13ex14CountingGenerator/CountingGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_arrays/ex12ex13ex14CountingGenerator/CountingGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ex12ex13ex14CountingGenerator/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_arrays/ex12ex13ex14CountingGenerator/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ex15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_arrays/ex15/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ex3ex4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_arrays/ex3ex4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ex5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_arrays/ex5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ex6ex7recursive_multidim_arrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_arrays/ex6ex7recursive_multidim_arrays/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ex8/ArrayOfGenericType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_arrays/ex8/ArrayOfGenericType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ex8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_arrays/ex8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ex9/Banana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_arrays/ex9/Banana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ex9/Peel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_arrays/ex9/Peel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ekke_modifiers/Widget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/Widget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ekke_modifiers/inner_package/WidgetUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/inner_package/WidgetUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ekke_modifiers/local/PackagedClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/local/PackagedClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ekke_modifiers/multiton/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/multiton/Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ekke_modifiers/multiton/ConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/multiton/ConnectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ekke_modifiers/multiton/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/multiton/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ekkel_innerclasses/selectors/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_innerclasses/selectors/Sequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/constructor/ConstructingException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_exceptions/constructor/ConstructingException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/constructor/FailingConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_exceptions/constructor/FailingConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/constructor/FileDisposer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_exceptions/constructor/FileDisposer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/lastTasks/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_exceptions/lastTasks/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/lastTasks/ExceptionA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_exceptions/lastTasks/ExceptionA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/lastTasks/FileRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_exceptions/lastTasks/FileRead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/ConcreteSelFBound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/ConcreteSelFBound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/Generator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/Generators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/LinkedStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/LinkedStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/RandomList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/RandomList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/SelfBound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/SelfBound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/SixTuple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/SixTuple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/Triple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/Triple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/Amerocano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/Amerocano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/BreeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/BreeDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/Brewe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/Brewe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/Capuccino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/Capuccino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/CaramelDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/CaramelDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/CheckedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/CheckedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/ChocolateDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/ChocolateDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/CoffeGeneratorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/CoffeGeneratorFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/CoffeeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/CoffeeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/CreamDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/CreamDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/Latte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/Latte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/Mocca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/Mocca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/exceptions/Failure1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/exceptions/Failure1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/exceptions/Failure2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/exceptions/Failure2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/exceptions/ProcessRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/exceptions/ProcessRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/exceptions/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/exceptions/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/coffees/exceptions/StringProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/coffees/exceptions/StringProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/conteinershipmodel/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/conteinershipmodel/Container.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/conteinershipmodel/ConteinerShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/conteinershipmodel/ConteinerShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/conteinershipmodel/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/conteinershipmodel/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/conteinershipmodel/ShipLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/conteinershipmodel/ShipLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/mixins/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/mixins/Basic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/mixins/BasicImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/mixins/BasicImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/mixins/ColorImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/mixins/ColorImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/mixins/Colored.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/mixins/Colored.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/mixins/Mixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/mixins/Mixin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/mixins/MixinProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/mixins/MixinProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/mixins/SerialNumbered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/mixins/SerialNumbered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/mixins/SerialNumberedImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/mixins/SerialNumberedImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/mixins/TimeStampImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/mixins/TimeStampImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/mixins/TimeStamped.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/mixins/TimeStamped.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics11/mixins/TwoTouple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_generics/mixins/TwoTouple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/horror/DangerousMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_interfaces/horror/DangerousMonster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/horror/Dragonzilla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_interfaces/horror/Dragonzilla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/horror/HorrorShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_interfaces/horror/HorrorShow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/horror/Lethal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_interfaces/horror/Lethal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/horror/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_interfaces/horror/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/horror/Vampire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_interfaces/horror/Vampire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/horror/VeryBadVampire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_interfaces/horror/VeryBadVampire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/Inter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/Inter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/debug/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/debug/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/debugoff/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/debugoff/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex11/Another.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex11/Another.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex11/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex11/Outer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex12/ex12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex12/ex12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex13/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex13/Outer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex15/Another.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex15/Another.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex15/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex15/Outer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex16/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex16/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex16/SwapChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex16/SwapChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex17/CoinTossing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex17/CoinTossing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex17/DiceTossing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex17/DiceTossing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex17/Tossing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex17/Tossing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex17/TossingConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex17/TossingConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex17/TossingFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex17/TossingFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex18/Another.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex18/Another.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex18/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex18/Outer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex19/MultiInner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex19/MultiInner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex19/MultiNested.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex19/MultiNested.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex20/Inter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex20/Inter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex20/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex20/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex21/Interf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex21/Interf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex21/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex21/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex23/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex23/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex23/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex23/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex23/U.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex23/U.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex24/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex24/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex24/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex24/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex24/GreenHouseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex24/GreenHouseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex24/GreenHouseControls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex24/GreenHouseControls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex24/TropicalGreenHouseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex24/TropicalGreenHouseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex24/TropicalGreenHouseControls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex24/TropicalGreenHouseControls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex26/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex26/Outer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex26/OuterSide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex26/OuterSide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex26/Side.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex26/Side.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex7/CLosed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex7/CLosed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex9/Inter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex9/Inter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/ex9/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/ex9/Outer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/firstpackage/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/firstpackage/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/firstpackage/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/firstpackage/Supplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/secondpackage/AnotherConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/secondpackage/AnotherConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modifiers/secondpackage/InheritConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_modifiers/secondpackage/InheritConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex1/Toy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex1/Toy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex1/ToyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex1/ToyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex10/PrimitiveDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex10/PrimitiveDetector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/Buldog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/Buldog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/Creator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/Creator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/FactoryPetCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/FactoryPetCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/ForNameCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/ForNameCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/Gerbil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/Gerbil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/Hamster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/Hamster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/Individual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/Individual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/LiteralPetCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/LiteralPetCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/Manx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/Manx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/Mau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/Mau.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/PetCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/PetCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/PetCount3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/PetCount3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/PetCount4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/PetCount4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/PetCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/PetCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/PetsFasade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/PetsFasade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/Pug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/Pug.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/Rodent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/Rodent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex11pets/TypeCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex11pets/TypeCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex13factories/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex13factories/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex13factories/RegisteredFactories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex13factories/RegisteredFactories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex17ShowMethods/ShowMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex17ShowMethods/ShowMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex20/ex20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex20/ex20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex21_SimpleProxy/Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex21_SimpleProxy/Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex21_SimpleProxy/RealObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex21_SimpleProxy/RealObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex21_SimpleProxy/SimpleProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex21_SimpleProxy/SimpleProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex22_SimpleDynamicProxy/SimpleDynamicProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex22_SimpleDynamicProxy/SimpleDynamicProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex25/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex25/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex25/inner/Tested.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex25/inner/Tested.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex26_orchestra/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex26_orchestra/Instrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex26_orchestra/Orchestra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex26_orchestra/Orchestra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex26_orchestra/Percussion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex26_orchestra/Percussion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex26_orchestra/Wind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex26_orchestra/Wind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex26_orchestra/WoodWind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex26_orchestra/WoodWind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex3/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex3/Shapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex7/Candy.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex7/Candy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex7/Cookie.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex7/Cookie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex7/Gum.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex7/Gum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex7/SweetShop.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex7/SweetShop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex7/SweetShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex7/SweetShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/ex8/RecursiveIerarchy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekkel_reflection/ex8/RecursiveIerarchy.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,43 +194,34 @@
     <expand />
     <select />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1965122084">
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="txt" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/arrays/ex8/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/arrays/ex8/ArrayOfGenericType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/arrays/ex11/AutoStore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,13 +233,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/reflection/ex11pets/Pug.java" />
-        <option value="$PROJECT_DIR$/src/reflection/ex11pets/Buldog.java" />
         <option value="$PROJECT_DIR$/src/reflection/ex11pets/FactoryPetCreator.java" />
         <option value="$PROJECT_DIR$/src/reflection/ex11pets/PetsFasade.java" />
         <option value="$PROJECT_DIR$/src/reflection/ex11pets/Test.java" />
@@ -137,6 +288,8 @@
         <option value="$PROJECT_DIR$/src/arrays/ex12ex13ex14CountingGenerator/CountingGenerator.java" />
         <option value="$PROJECT_DIR$/src/arrays/ex12ex13ex14CountingGenerator/Test.java" />
         <option value="$PROJECT_DIR$/src/arrays/ex15/Main.java" />
+        <option value="$PROJECT_DIR$/src/ekkel_modifiers/Widget.java" />
+        <option value="$PROJECT_DIR$/src/generics11/Generators.java" />
       </list>
     </option>
   </component>
@@ -145,7 +298,7 @@
     <option name="width" value="1338" />
     <option name="height" value="698" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -154,88 +307,49 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Ekkel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ekkel" type="462c0819:PsiDirectoryNode" />
+              <item name="ekkel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ekkel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Ekkel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ekkel" type="462c0819:PsiDirectoryNode" />
+              <item name="ekkel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ekkel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Ekkel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ekkel" type="462c0819:PsiDirectoryNode" />
+              <item name="ekkel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ekkel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="ekkel_generics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Ekkel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ekkel" type="462c0819:PsiDirectoryNode" />
+              <item name="ekkel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ekkel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="ex11" type="462c0819:PsiDirectoryNode" />
+              <item name="ekkel_generics" type="462c0819:PsiDirectoryNode" />
+              <item name="ConcreteSelFBound.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
-              <item name="Ekkel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ekkel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="ex12ex13ex14CountingGenerator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ekkel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ekkel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="ex15" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ekkel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ekkel" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Ekkel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Ekkel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ekkel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ekkel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549272417279" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549291452263" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -258,25 +372,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.ex8.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ekkel_arrays.ex1.Main" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.ex8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.ex15.Main" />
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.ex15.*" />
+          <option name="PATTERN" value="ekkel_arrays.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,11 +386,24 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.ex1.Main" />
+      <option name="MAIN_CLASS_NAME" value="ekkel_arrays.ex8.Main" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.ex1.*" />
+          <option name="PATTERN" value="ekkel_arrays.ex8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ekkel_arrays.ex15.Main" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ekkel_arrays.ex15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,11 +451,11 @@
       </method>
     </configuration>
     <configuration name="Peel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.ex9.Peel" />
+      <option name="MAIN_CLASS_NAME" value="ekkel_arrays.ex9.Peel" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.ex9.*" />
+          <option name="PATTERN" value="ekkel_arrays.ex9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,14 +464,61 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.ex12ex13ex14CountingGenerator.Test" />
+      <option name="MAIN_CLASS_NAME" value="ekkel_arrays.ex12ex13ex14CountingGenerator.Test" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.ex12ex13ex14CountingGenerator.*" />
+          <option name="PATTERN" value="ekkel_arrays.ex12ex13ex14CountingGenerator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Test" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -440,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548877914474</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merged EKKE from work and home">
+      <created>1549291141197</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549291141197</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -456,10 +624,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="31" width="1368" height="738" extended-state="6" />
-    <editor active="true" />
+    <frame x="-2" y="35" width="1284" height="991" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49594814" visible="true" weight="0.34015152" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49594814" visible="true" weight="0.20813008" />
       <window_info id="Structure" order="1" sideWeight="0.50323623" side_tool="true" weight="0.3530303" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -467,7 +634,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32901135" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3282532" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" weight="0.32901135" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -476,7 +643,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.90275526" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32901135" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3282532" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007576" side_tool="true" weight="0.32901135" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32901135" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -555,337 +722,34 @@
         </entry>
       </map>
     </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="origin/master" />
-                </option>
-              </RecentGroup>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="master" />
-                </option>
-              </RecentGroup>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="150119" />
     <MESSAGE value="300119- arrays-ex891011" />
-    <option name="LAST_COMMIT_MESSAGE" value="300119- arrays-ex891011" />
+    <MESSAGE value="Merged EKKE from work and home" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merged EKKE from work and home" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="60" column="40" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/reflect/Constructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="59" column="48" selection-start-line="59" selection-start-column="48" selection-end-line="59" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/reflect/Member.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/reflect/Executable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/generics11/coffees/BreeDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/stream/Streams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-401">
-          <caret line="153" column="17" selection-start-line="153" selection-start-column="17" selection-end-line="153" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/generics11/coffees/CoffeeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex17ShowMethods/ShowMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="33" column="50" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex1/Toy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23475">
-          <caret line="1648" column="19" selection-start-line="1648" selection-start-column="19" selection-end-line="1648" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/reflect/AnnotatedElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3060">
-          <caret line="237" column="25" selection-start-line="237" selection-start-column="25" selection-end-line="237" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/generics11/coffees/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex21_SimpleProxy/Interface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex21_SimpleProxy/SimpleProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex1/ToyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex21_SimpleProxy/RealObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/math/BigInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16065">
-          <caret line="1112" column="12" selection-start-line="1112" selection-start-column="12" selection-end-line="1112" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex23/SimpleDynamicProxy.java" />
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex11pets/TypeCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex22_SimpleDynamicProxy/SimpleDynamicProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex13factories/Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex20/ex20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex13factories/RegisteredFactories.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex25/inner/Tested.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding>
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex25/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex26_orchestra/Percussion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-          <folding>
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex26_orchestra/Instrument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex26_orchestra/Wind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex26_orchestra/WoodWind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reflection/ex26_orchestra/Orchestra.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays/BerilliumSphere.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel_reflection/ex22_SimpleDynamicProxy/SimpleDynamicProxy.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_reflection/ex13factories/Factory.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_reflection/ex20/ex20.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_reflection/ex13factories/RegisteredFactories.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_reflection/ex25/inner/Tested.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_reflection/ex25/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_reflection/ex26_orchestra/Percussion.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_reflection/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_reflection/ex26_orchestra/Instrument.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_reflection/ex26_orchestra/Wind.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_reflection/ex26_orchestra/WoodWind.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_reflection/ex26_orchestra/Orchestra.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_arrays/BerilliumSphere.java" />
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-874">
@@ -906,137 +770,177 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays/ex1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays/ex3ex4/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays/ex5/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays/ex6ex7recursive_multidim_arrays/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays/ex9/Banana.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays/ex9/Peel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#191#221#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays/ex10/ArrayOfGenerics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays/ex8/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays/ex8/ArrayOfGenericType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays/ex12ex13ex14CountingGenerator/CountingGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-          <folding>
-            <element signature="e#2240#2241#0" expanded="true" />
-            <element signature="e#2278#2279#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel_arrays/ex1/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_arrays/ex3ex4/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_arrays/ex5/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_arrays/ex6ex7recursive_multidim_arrays/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_arrays/ex9/Banana.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_arrays/ex9/Peel.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_arrays/ex10/ArrayOfGenerics.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_arrays/ex8/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_arrays/ex8/ArrayOfGenericType.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_arrays/ex12ex13ex14CountingGenerator/CountingGenerator.java" />
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70110">
           <caret line="5107" column="42" lean-forward="true" selection-start-line="5107" selection-start-column="42" selection-end-line="5107" selection-end-column="42" />
-          <folding>
-            <element signature="e#197058#197059#0" expanded="true" />
-            <element signature="e#197128#197129#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays/ex15/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/ekkel_arrays/ex15/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_arrays/ex12ex13ex14CountingGenerator/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_arrays/ex11/AutoStore.java" />
+    <entry file="file://$PROJECT_DIR$/src/ekkel_innerclasses/single/OuterInterClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays/ex12ex13ex14CountingGenerator/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/ekkel_modifiers/Widget.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel_innerclasses/selectors/Selector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel_innerclasses/single/Outer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel_innerclasses/selectors/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays/ex11/AutoStore.java">
+    <entry file="file://$PROJECT_DIR$/src/ekkel_innerclasses/single/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel_innerclasses/TestForAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel_innerclasses/InnerInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel_innerclasses/selectors/Content.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel_innerclasses/selectors/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel_generics/Generators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generics11/Generators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generics11/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel_generics/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel_generics/Triple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel_generics/SixTuple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel_generics/SelfBound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel_generics/RandomList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel_generics/LinkedStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ekkel_generics/ConcreteSelFBound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
         </state>
       </provider>
     </entry>

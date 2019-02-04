@@ -1,7 +1,5 @@
 package ekkel_innerclasses.selectors;
 
-import ekke_modifiers.multiton.Connection;
-
 import java.util.*;
 
 public class Sequence {
