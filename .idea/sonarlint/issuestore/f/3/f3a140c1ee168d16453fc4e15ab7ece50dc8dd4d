@@ -1,0 +1,12 @@
+
+Gsquid:S1068"*Remove this unused "innerX" private field.(µ¡ÈB8³ì§åï,
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„½³†8ƒî•åï,
+Hsquid:S1068"%Remove this unused "y" private field.(¼°ÿÄûÿÿÿÿ8ù±ßåï,
+Esquid:S1068"'Remove this unused "sty" private field.(÷Ç‰ñ8ıÏàåï,
+]squid:S1118":Add a private constructor to hide the implicit public one.(è®´ûÿÿÿÿ8¢’§åï,
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(á‡â™ÿÿÿÿÿ8¢’§åï,
+xsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µ¡ÈB8ç’Úåï,
+Wsquid:UnusedPrivateMethod"+Remove this unused private "stPlay" method.(„½³†8ƒî•åï,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(õí•şÿÿÿÿ8•à¨åï,
+Gsquid:S3985")Remove this unused private "Inner" class.(íÙöŞ8ÎõÛåï,

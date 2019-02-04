@@ -1,0 +1,5 @@
+
+Œ"squid:ClassVariableVisibilityCheck"RMake logger a static final constant or non-public and provide accessors if needed.(ãìÅ±şÿÿÿÿ8Ã“§ıì,
+Osquid:S1444",Make this "public static logger" field final(ãìÅ±şÿÿÿÿ8Ã“§ıì,
+Bsquid:S1165"Make this "logger" field final.(ãìÅ±şÿÿÿÿ8İİÊÑí,
+Bsquid:S2629"$Invoke method(s) only conditionally.(İÃ¹´8êüªıì,

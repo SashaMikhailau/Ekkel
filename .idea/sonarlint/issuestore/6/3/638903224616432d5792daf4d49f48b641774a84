@@ -1,0 +1,15 @@
+
+T
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+Dsquid:S1481"(Remove this unused "two" local variable.(íÅ–ûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õáõøÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹¸üÕ
+T
+squid:S106 "9Replace this use of System.out or System.err by a logger.(®ßüÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(îüÁÜ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÓƒÎü
+Ssquid:S1854"7Remove this useless assignment to local variable "two".(íÅ–ûÿÿÿÿ

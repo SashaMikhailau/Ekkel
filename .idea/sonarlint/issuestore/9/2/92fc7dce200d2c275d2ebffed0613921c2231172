@@ -1,0 +1,7 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ë«÷ñí,
+Lsquid:S1481")Remove this unused "bear" local variable.(ö ùÿÿÿÿ8¾¸øñí,
+“"squid:SwitchLastCaseIsDefaultCheck"YComplete cases by adding the missing enum constants or add a default case to this switch.(ìŸÕØşÿÿÿÿ8öì˜óí,
+nsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ìŸÕØşÿÿÿÿ8öì˜óí,
+[squid:S1854"8Remove this useless assignment to local variable "bear".(ö ùÿÿÿÿ8¾¸øñí,

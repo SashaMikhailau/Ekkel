@@ -1,0 +1,6 @@
+
+Wsquid:S1143"4Remove this throw statement from this finally block.(§Ô¡£ıÿÿÿÿ8êÕ¬ôí,
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Úšªôí,
+Rsquid:S1143"4Remove this throw statement from this finally block.(¤Ö“8ººôí,
+`squid:S1163"=Refactor this code to not throw exceptions in finally blocks.(§Ô¡£ıÿÿÿÿ8È…¬ôí,
+[squid:S1163"=Refactor this code to not throw exceptions in finally blocks.(¤Ö“8ººôí,

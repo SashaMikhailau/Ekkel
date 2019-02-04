@@ -1,0 +1,9 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ö¤‰í8àğ®àó,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅãÈ˜úÿÿÿÿ8ÆŠ®àó,
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ôıÑ8Üğ¯àó,
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8®¹àó,
+Csquid:S1181 "%Catch Exception instead of Throwable.(ëß‹™8ƒ”­àó,

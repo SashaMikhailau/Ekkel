@@ -1,0 +1,9 @@
+
+;squid:S1165"Make this "date" field final.(¥ ·¡8¿ëØıì,
+Ksquid:S1481"(Remove this unused "inn" local variable.(ÿ»ü²úÿÿÿÿ8«óÏåï,
+Zsquid:S1854"7Remove this useless assignment to local variable "inn".(ÿ»ü²úÿÿÿÿ8«óÏåï,
+Hsquid:S2440"%Remove this instantiation of "Inner".(ÿ»ü²úÿÿÿÿ8€áñ¬ó,
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¯³«Ú8öæİıì,
+7squid:S3457"2nd argument is not used.(åææğ8„Şàıì,
+ysquid:UselessImportCheck"IRemove this unused import 'ekkel_exceptions.innerclasses.OuterInterFace'.(¹Îÿ¨ıÿÿÿÿ8—ÀÌåï,
+`squid:UselessImportCheck"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8öæİıì,
