@@ -1,0 +1,10 @@
+
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ıòÌ®ö,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ‘ÚÛûÿÿÿÿ8àêÔ±ö,
+[
+squid:S106	"9Replace this use of System.out or System.err by a logger.(ò‹Ä”ûÿÿÿÿ8³‚èİõ,
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷¹’å8”Ã˜®ö,
+Xsquid:UselessImportCheck".Remove this unused import 'java.util.TreeSet'.(½îB8âÇÏ±ö,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ‘ÚÛûÿÿÿÿ8–‚Ö±ö,

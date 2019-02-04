@@ -1,0 +1,11 @@
+
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒšÔj
+Ssquid:UselessImportCheck"*Remove this unused import 'java.sql.Time'.(Üå»‰þÿÿÿÿ
+O
+squid:S106D"9Replace this use of System.out or System.err by a logger.(¨ôÏ‘
+T
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ù Ýˆýÿÿÿÿ
+T
+squid:S106F"9Replace this use of System.out or System.err by a logger.(Æ™ùžøÿÿÿÿ
+O
+squid:S106C"9Replace this use of System.out or System.err by a logger.(™ª·€

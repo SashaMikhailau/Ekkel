@@ -1,0 +1,9 @@
+
+Ysquid:S1612 "=Replace this lambda with method reference 'Objects::nonNull'.(é”»ğùÿÿÿÿ
+`squid:UselessImportCheck"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ
+asquid:UselessImportCheck"8Remove this unused import 'java.util.stream.LongStream'.(óœñıÿÿÿÿ
+csquid:UselessImportCheck"?Remove this unused import 'java.util.function.BooleanSupplier'.(ˆï©Œ
+T
+squid:S1068"9Replace this use of System.out or System.err by a logger.(¾²§Æÿÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'java.util.stream.DoubleStream'.(óÖĞ©
+Xsquid:UselessImportCheck	"4Remove this unused import 'java.util.stream.Stream'.(ó÷”

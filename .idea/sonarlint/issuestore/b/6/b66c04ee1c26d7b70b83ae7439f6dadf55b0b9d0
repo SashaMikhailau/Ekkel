@@ -1,0 +1,6 @@
+
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(ÍÛ³é8ìãÀİõ,
+Wsquid:S1854"9Remove this useless assignment to local variable "inner".(€ÙÌß8×ÜÂİõ,
+Hsquid:S1481"*Remove this unused "inner" local variable.(€ÙÌß8×ÜÂİõ,
+Hsquid:S2440"*Remove this instantiation of "MultiInner".(€ÙÌß8ãìğ†ö,
+esquid:S2094"BRemove this empty class, write its code or make it an "interface".(Š¹¾§ÿÿÿÿÿ8ìãÀİõ,
